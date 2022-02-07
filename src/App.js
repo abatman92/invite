@@ -1,9 +1,9 @@
-import { Test } from './component/Test';
+import { InviteForm } from './component/Test';
 
 function App() {
   return (
     <div className="page">
-      <Test />
+      <InviteForm />
     </div>
   );
 }
